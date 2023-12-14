@@ -1,3 +1,3 @@
-# ZIM 2.13.0-pre
+# ZIM 2.12.2+2
 
 A description of this package.
